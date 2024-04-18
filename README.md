@@ -75,4 +75,11 @@ Vintage Year: 2021
 
 Quantity: 4603
 _____________________
+2nd Issuance Period: 2022
+
+Serial Number: 0002-054528-061844-UCR-CoU-IN-092-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 7317
 
